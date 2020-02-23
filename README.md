@@ -1,4 +1,4 @@
-#ok... this is totally my fault but I still want to say something to make an effort showing Im not being disrespectful and do care about these homeworks.
+#ok... this is totally my fault and I still want to say something to make an effort showing Im not being disrespectful and do care about these homeworks.
 #I underestimated the homework and didn't start until today. Total mistake. I couldnt get VSC to open the csv file despite putting in correct code, os and csv import. I know that it is also in the same directory as my main.py file.i took it for granted and assumed it's a simple process : as long as csv file in the same directory as .py , it would read. I was wrong.  And i did have os and csv imported. 
 #so I'm submiting what i thought would work if i had the exist file/directory. I'm sorry. 
 # pymeup_charlie
